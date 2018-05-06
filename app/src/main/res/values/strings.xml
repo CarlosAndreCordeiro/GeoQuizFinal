@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="pergunta1">Marcela é careca?</string>
+    <string name="pergunta2">Marcela é chata?</string>
+    <string name="pergunta3">Marcela sabe nadar?</string>
+    <string name="pergunta4">Marcela malha?</string>
+    <string name="pergunta5">Marcela toma banho?</string>
+    <string name="pergunta6">Marcela é ciumenta?</string>
+
+    <string name="correto">Correto!!!</string>
+    <string name="incorreto">Incorreto!!!</string>
+
+</resources>
